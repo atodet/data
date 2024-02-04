@@ -1,0 +1,24 @@
+Continuity Directions,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Grouping,Ass,D,Percentile,Cut-Off (m),Compatibility,Rotations,Angle 1,Angle 2,Angle 3,,,,,,,,,,
+Ass/D,NS:A,,,,Gs,ZXY,140,0,-80,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Continuity Models,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Structure 1,,Structure 2,,Structure 3,,,,,,,
+Grouping,Ass,D,Percentile,Cut(m),Direction,Orientation,Nugget,Sill,Range,Sill,Range,Sill,Range,,Type 1,Type 2,Type 3,Transform,Inverted
+,,,,,,,C0,C1,A1,C2,A2,C3,A3,,,,,,
+Ass/D,NS:A,,,,Downhole,00-->000,0.23,0.17,6,0.6,15,,,,Spherical,Spherical,,None,FALSE
+Ass/D,NS:A,,,,1,00-->140,0.23,0.4,15,0.37,55,,,,Spherical,Spherical,,None,FALSE
+Ass/D,NS:A,,,,2,-80-->050,0.23,0.4,16,0.37,45,,,,Spherical,Spherical,,None,FALSE
+Ass/D,NS:A,,,,3,10-->050,0.23,0.4,5,0.37,35,,,,Spherical,Spherical,,None,FALSE
+Ass/D,NS:A,,,,5,00-->000,0.23,0.42,5,0.35,36,,,,Spherical,Spherical,,None,FALSE
+,,,,,,,,,,,,,,,,,,,
+GSLIB Parameters,,,,,,,,,,,,,,,,,,,
+Assay,Domain,Percentile,Cut(m),,,,,,,,,,,,,,,,
+NS:A,,,,,,,,,,,,,,,,,,,
+2,0.23,,,,,,,,,,,,,,,,,,
+1,0.4,140,0,-80,,,,,,,,,,,,,,,
+15,16,5,,,,,,,,,,,,,,,,,
+1,0.37,140,0,-80,,,,,,,,,,,,,,,
+55,45,35,,,,,,,,,,,,,,,,,
